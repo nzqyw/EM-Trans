@@ -6,4 +6,4 @@ Coming soon.
 
 ## 2. Results
 
-Test maps of the five benchmark datasets (SIP, NJU2K, NLPR, SSD, STERE) can be downloaded from [here]([https://pan.baidu.com/s/1O-AhThLWEDVgQiPhX3QVYw]) [code: k0x6].
+Test maps of the five benchmark datasets (SIP, NJU2K, NLPR, SSD, STERE) can be downloaded from [Baidu Pan](https://pan.baidu.com/s/1O-AhThLWEDVgQiPhX3QVYw) [code: k0x6].

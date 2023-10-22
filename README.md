@@ -6,4 +6,4 @@ Coming soon.
 
 ## 2. Results
 
-Test maps of the above datasets (ResNet50 backbone) can be download from [here](https://pan.baidu.com/s/1O-AhThLWEDVgQiPhX3QVYw) [code: qgai ].
+Test maps of the five benchmark datasets (SIP, NJU2K, NLPR, SSD, STERE) can be downloaded from [here]([https://pan.baidu.com/s/1O-AhThLWEDVgQiPhX3QVYw]) [code: k0x6].
